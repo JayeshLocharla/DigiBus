@@ -8,7 +8,7 @@ DigiBus aims to provide people with a suitable alternative to purchasing bus pas
 ## How to Use the Website:
 - Clone the GitHub repository
 ```python
-$ git clone git@github.com:Pranav1007/DigiBus.git
+$ git clone git@github.com:JayeshLocharla/DigiBus.git
 ```
 
 - Move to the Project Directory
